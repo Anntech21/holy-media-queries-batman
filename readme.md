@@ -22,7 +22,12 @@ Complete the below tasks using Media Queries. **The Mobile View is a bonus** (_n
 
 The result should look like this:
 
+**Header** changes:
+
 ![tablet goal for the header](./images/tablet-goal-1.png)
+
+**Footer** changes:
+
 ![tablet goal for the footer](./images/tablet-goal-2.png)
 
 ##### Mobile View (less than 768px)
@@ -37,5 +42,10 @@ The result should look like this:
 
 The result should look like this:
 
+**Header** changes:
+
 ![mobile goal for the header](./images/mobile-goal-1.png)
+
+**Footer** changes:
+
 ![mobile goal for the header](./images/mobile-goal-2.png)
