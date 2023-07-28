@@ -1,4 +1,10 @@
 /*
+
+IGNORE EVERYTHING ELOW UNTIL YOU GET TO THE MEDIA QUERIES PART!
+
+*/
+
+/*
   Google Fonts
   https://fonts.google.com/specimen/Righteous
 */
@@ -162,35 +168,4 @@ footer a:hover {
   color: #ececec;
 }
 
-/* Media queries */
-@media (max-width: 1279px) {
-  .splash {
-    display: none;
-  }
-  main {
-    width: 677.6875px;
-  }
-  footer {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 767px) {
-  header {
-    grid-template-columns: 100%;
-  }
-  main {
-    grid-template-columns: 1fr;
-    width: 324px;
-  }
-  footer {
-    padding: 25px;
-    text-align: center;
-  }
-  footer ul {
-    list-style: none;
-  }
-  footer h4 {
-    border: 0px;
-  }
-}
+/* MEDIA QUERIES GO BELOW! */
