@@ -6,9 +6,9 @@ Let's fix up this site to be responsive. With media queries!
 
 Fork and clone the repository, navigate into the repo's directory, and run `code .` to start working on it!
 
-Highly recommended: running Live Server to see what happens as you code.
+Always highly recommended for web app coding: running Live Server to see what happens as you code.
 
-**Also highly recommended**: make sure you can resize your browser's window to check the layouts at different widths!
+**Especially highly recommended for RESPONSIVE web app coding**: make sure you can resize your browser's window to check the layouts at different widths!
 
 ### Instructions
 
