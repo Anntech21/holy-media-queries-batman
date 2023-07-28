@@ -1,6 +1,6 @@
 /*
 
-IGNORE EVERYTHING ELOW UNTIL YOU GET TO THE MEDIA QUERIES PART!
+IGNORE EVERYTHING BELOW UNTIL YOU GET TO THE MEDIA QUERIES PART!
 
 */
 
@@ -45,6 +45,8 @@ header {
 
   display: grid;
   grid-template-columns: 250px 1fr;
+
+  justify-content: space-around;
 }
 
 header h1 {
@@ -169,3 +171,21 @@ footer a:hover {
 }
 
 /* MEDIA QUERIES GO BELOW! */
+
+@media (1279px >= width >= 768px ) {
+.splash {
+  display: none;
+}
+
+main { width: 90%;
+}
+
+footer {
+  display: flex;
+  grid-template-columns: repeat(2, 1fr);
+  flex-direction: space-between;
+  column-gap: 400px; ;
+}
+}
+
+
